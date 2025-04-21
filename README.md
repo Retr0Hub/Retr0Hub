@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/retr0123456789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="retr0123456789" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayushbhowmick17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushbhowmick17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayushbhowmick17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushbhowmick18" height="30" width="40" /></a>
 <a href="https://fb.com/ayushbhowmick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayushbhowmick" height="30" width="40" /></a>
 <a href="https://instagram.com/retr0.ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="retr0.ayush" height="30" width="40" /></a>
 </p>
