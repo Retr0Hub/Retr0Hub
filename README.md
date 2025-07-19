@@ -22,7 +22,7 @@
 🌐 [ayushbhowmick.my.canva.site](https://ayushbhowmick.my.canva.site/)
 
 📄 Check out my resume:  
-📎 [lavender-dulcia-10.tiiny.site](https://lavender-dulcia-10.tiiny.site/)
+📎 [Check Resume](https://docs.google.com/document/d/1GOBNKtwixOmYAEGlAzjRlcX8qD_uGFVK/edit?usp=drive_link&ouid=114931913080126776661&rtpof=true&sd=true)
 
 📬 Reach me at:  
 📧 **ayush.bhowmick.kal@gmail.com**
@@ -31,17 +31,8 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/retr0123456789" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/retr0123456789?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/ayush-bhowmick-34602b256/" target="_blank">
+  <a href="https://www.linkedin.com/in/ayushbhowmick/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://fb.com/ayushbhowmick18" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/retr0.ayush" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
