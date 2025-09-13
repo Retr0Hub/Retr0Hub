@@ -11,10 +11,10 @@ I build fast, functional, and user-centric mobile apps using Flutter, primarily 
 `Java`, `Game Engine`, `xcode`, `Swift`
 
 💻 All my projects:  
-🌐 [Website](https://ayushbhowmick.my.canva.site/)
+🌐 [Website](https://retr0.framer.website/)
 
 📄 Check out my resume:  
-📎 [Resume](https://docs.google.com/document/d/1GOBNKtwixOmYAEGlAzjRlcX8qD_uGFVK/edit?usp=drive_link&ouid=114931913080126776661&rtpof=true&sd=true)
+📎 [Resume](https://drive.google.com/file/d/1JkxgZV3U44CK3o0UhkjBzF2xZEErTURE/view?usp=drive_link)
 
 📬 Reach me at:  
 📧 **ayush.bhowmick.kal@gmail.com**
