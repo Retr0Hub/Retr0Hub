@@ -153,7 +153,7 @@ I build fast, functional, and user-centric mobile apps using Flutter, primarily 
 <h3 align="left">🏆 GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=retr0hub&margin-w=10&margin-h=10&theme=radical&no-frame=true&title=-Reviews,-Followers" alt="retr0hub" />
+    <img src="https://github-profile-trophy.vercel.app/?username=retr0hub&theme=radical&no-frame=true&margin-w=8"  />
   </a>
 </p>
 
@@ -161,7 +161,8 @@ I build fast, functional, and user-centric mobile apps using Flutter, primarily 
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=retr0hub&show_icons=true&locale=en&layout=compact&theme=shadow_red" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=retr0hub&show_icons=true&locale=en&theme=shadow_red&show=prs_merged_percentage&hide=stars,contribs&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Retr0hub&theme=youtube-dark&card_width=200&card_height=200&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retr0hub&layout=compact&theme=shadow_red" />
+  <img src="https://github-readme-stats.vercel.app/api?username=retr0hub&show_icons=true&theme=shadow_red&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=retr0hub&theme=youtube-dark&hide_current_streak=true&hide_longest_streak=true" />
 </p>
+
