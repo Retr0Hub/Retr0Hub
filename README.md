@@ -5,10 +5,10 @@
 
 🎓 I'm currently pursuing my B.Tech at **Heritage Institute of Technology (HITK)**, Class of 2027.
 
-I build fast, functional, and user-centric mobile apps using Flutter, primarily for Android. My passion for clean architecture and scalable systems also led me to explore full-stack web development (MERN/MEAN, Django, Node.js) and cloud-native DevOps workflows (Docker, GitHub Actions, CI/CD, Firebase, AWS).
+I build fast, functional, and user-centric mobile apps using Flutter, primarily for Android. My passion for clean architecture and scalable systems also led me to explore full-stack web development (MERN/MEAN, Node.js) and cloud-native DevOps workflows (Docker, GitHub Actions, CI/CD, Firebase, AWS).
 
 🌱 Currently learning:  
-`Java`, `Game Engine`, `xcode`, `Swift`
+`Kubernetes`, `Game Engine`, `xcode`, `Swift`
 
 💻 All my projects:  
 🌐 [Website](https://retr0.framer.website/)
@@ -55,15 +55,6 @@ I build fast, functional, and user-centric mobile apps using Flutter, primarily 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
 
  <h3 align="left"> Web Development: </h3>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -95,9 +86,6 @@ I build fast, functional, and user-centric mobile apps using Flutter, primarily 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" height="40"/>
 </a>
@@ -115,9 +103,6 @@ I build fast, functional, and user-centric mobile apps using Flutter, primarily 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
@@ -129,9 +114,6 @@ I build fast, functional, and user-centric mobile apps using Flutter, primarily 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
@@ -141,9 +123,6 @@ I build fast, functional, and user-centric mobile apps using Flutter, primarily 
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
   </a>
 
   <h3 align="left"> Others: </h3>
