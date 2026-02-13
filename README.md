@@ -14,7 +14,7 @@ I build fast, functional, and user-centric mobile apps using Flutter, primarily 
 🌐 [Website](https://retr0.framer.website/)
 
 📄 Check out my resume:  
-📎 [Resume](https://drive.google.com/file/d/1JkxgZV3U44CK3o0UhkjBzF2xZEErTURE/view?usp=drive_link)
+📎 [Resume](https://drive.google.com/file/d/1ZWxTmIDr8Z2yijQwphBU3XxB59_EIpLh/view?usp=sharing)
 
 📬 Reach me at:  
 📧 **ayush.bhowmick.kal@gmail.com**
